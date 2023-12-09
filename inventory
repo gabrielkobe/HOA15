@@ -1,0 +1,6 @@
+
+[control]
+192.168.56.114 ansible_python_interpreter=/usr/bin/python3 ansible_ssh_user=gabriel ansible_ssh_pass=@Sansonny12
+[compute]
+192.168.56.115 ansible_python_interpreter=/usr/bin/python ansible_ssh_user=gabriel ansible_ssh_pass=@Sansonny12
+
